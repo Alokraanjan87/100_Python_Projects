@@ -7,3 +7,5 @@ if number==1:
     print("Heads")
 else:
     print("Tails")
+
+print("See you on the next one")
